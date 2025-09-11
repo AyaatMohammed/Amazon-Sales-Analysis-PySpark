@@ -93,3 +93,13 @@ This project provides a solid foundation. Future enhancements could include:
 *   **Product Recommendation System:** Implementing a basic recommendation engine to suggest products to users.
 *   **Automated Data Pipeline:** Using a tool like Apache Airflow to automate the entire analysis workflow to run on a schedule.
 
+---
+
+---
+
+## 📬 Contact Me
+
+Created by **Ayaat Mohammed**. Feel free to reach out!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/ayat-mohammed-b58856361 )
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white )](https://github.com/AyaatMohammed )
